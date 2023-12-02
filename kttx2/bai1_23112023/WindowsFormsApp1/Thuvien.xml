@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thuvien>
+  <cuonsach>
+    <tacgia matg="tg01">
+      <hoten>Đang Bich Hop</hoten>
+      <tuoi>35</tuoi>
+    </tacgia>
+    <masach>s01</masach>
+    <tensach>Hướng dẫn trồng hoa hồng</tensach>
+  </cuonsach>
+  <cuonsach>
+    <tacgia matg="1">
+      <hoten>1</hoten>
+      <tuoi>1</tuoi>
+    </tacgia>
+    <masach>1</masach>
+    <tensach>1</tensach>
+  </cuonsach>
+  <cuonsach>
+    <tacgia matg="tg02">
+      <hoten>Nhat Minh</hoten>
+      <tuoi>37</tuoi>
+    </tacgia>
+    <masach>s02</masach>
+    <tensach>Anh long ca nay di xa </tensach>
+  </cuonsach>
+</thuvien>

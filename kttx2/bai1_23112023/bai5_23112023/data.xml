@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thuvien>
+  <sach masach="s01">
+    <tensach>CN XML </tensach>
+    <sotrang>150</sotrang>
+    <tacgia>
+      <hoten>Huong Lan</hoten>
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+</thuvien>

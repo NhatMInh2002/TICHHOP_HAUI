@@ -1,0 +1,10 @@
+E:\kttx2\bai1_23112023\bai5_23112023\bin\Debug\bai5_23112023.exe.config
+E:\kttx2\bai1_23112023\bai5_23112023\bin\Debug\bai5_23112023.exe
+E:\kttx2\bai1_23112023\bai5_23112023\bin\Debug\bai5_23112023.pdb
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.csproj.AssemblyReference.cache
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.Properties.Resources.resources
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.csproj.GenerateResource.cache
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.csproj.CoreCompileInputs.cache
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.exe
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.pdb
+E:\kttx2\bai1_23112023\bai5_23112023\obj\Debug\bai5_23112023.Form1.resources

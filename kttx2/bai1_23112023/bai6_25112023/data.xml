@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thuvien>
+  <sach masach="s01">
+    <tensach>Lap trinh Windows </tensach>
+    <sotrang>200</sotrang>
+    <tacgia hoten="Nguyen Lan Anh">
+      <diachi>Ha Noi</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s02">
+    <tensach>test</tensach>
+    <sotrang>test</sotrang>
+    <tacgia hoten="test">
+      <diachi>test</diachi>
+    </tacgia>
+  </sach>
+  <sach masach="s03">
+    <tensach>test</tensach>
+    <sotrang>test1</sotrang>
+    <tacgia hoten="test">
+      <diachi>test</diachi>
+    </tacgia>
+  </sach>
+</thuvien>

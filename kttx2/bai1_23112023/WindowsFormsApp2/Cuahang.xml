@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cuahang>
+  <chinhanh macn="cn01">
+    <tencn>Chi nhanh 1</tencn>
+    <sluongnv>17</sluongnv>
+    <sanpham>
+      <masp>sp01</masp>
+      <tensp>Quan jean mau 1</tensp>
+    </sanpham>
+  </chinhanh>
+</cuahang>
