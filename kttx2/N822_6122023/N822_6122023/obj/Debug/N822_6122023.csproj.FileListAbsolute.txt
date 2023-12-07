@@ -1,0 +1,10 @@
+E:\kttx2\N822_6122023\N822_6122023\bin\Debug\N822_6122023.exe.config
+E:\kttx2\N822_6122023\N822_6122023\bin\Debug\N822_6122023.exe
+E:\kttx2\N822_6122023\N822_6122023\bin\Debug\N822_6122023.pdb
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.csproj.AssemblyReference.cache
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.Form1.resources
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.Properties.Resources.resources
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.csproj.GenerateResource.cache
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.csproj.CoreCompileInputs.cache
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.exe
+E:\kttx2\N822_6122023\N822_6122023\obj\Debug\N822_6122023.pdb

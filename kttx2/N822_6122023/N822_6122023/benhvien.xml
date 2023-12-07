@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<benhvien>
+  <khoa makhoa="K01">
+    <tenkhoa>Tai mũi họng</tenkhoa>
+    <benhnhan>
+      <mabn>m01</mabn>
+      <hoten>
+        <ho>Ngo</ho>
+        <ten>Minh</ten>
+      </hoten>
+      <gioitinh>Nam</gioitinh>
+      <songay>20</songay>
+    </benhnhan>
+  </khoa>
+  <khoa makhoa="K02">
+    <tenkhoa>Ngoại</tenkhoa>
+    <benhnhan>
+      <mabn>m02</mabn>
+      <hoten>
+        <ho>Nguyen</ho>
+        <ten>Nhi</ten>
+      </hoten>
+      <gioitinh>Nữ</gioitinh>
+      <songay>30</songay>
+    </benhnhan>
+  </khoa>
+</benhvien>
