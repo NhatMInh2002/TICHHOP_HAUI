@@ -153,7 +153,11 @@ namespace N822_6122023
                 return;
             }
 
-            goc.RemoveChild(chkBN);
+            DialogResult res = MessageBox.Show("Bạn có muốn xóa?", "Xác nhận xóa", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (res == DialogResult.Yes)
+            {
+                goc.RemoveChild(chkBN);
+            }
             doc.Save(tentep);
             Hienthi();
         }
