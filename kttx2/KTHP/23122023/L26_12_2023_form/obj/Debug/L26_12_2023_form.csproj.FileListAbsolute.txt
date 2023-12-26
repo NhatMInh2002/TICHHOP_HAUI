@@ -1,0 +1,10 @@
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\bin\Debug\L26_12_2023_form.exe.config
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\bin\Debug\L26_12_2023_form.exe
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\bin\Debug\L26_12_2023_form.pdb
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.csproj.AssemblyReference.cache
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.Form1.resources
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.Properties.Resources.resources
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.csproj.GenerateResource.cache
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.csproj.CoreCompileInputs.cache
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.exe
+E:\TICHHOP_HAUI\kttx2\KTHP\23122023\L26_12_2023_form\obj\Debug\L26_12_2023_form.pdb

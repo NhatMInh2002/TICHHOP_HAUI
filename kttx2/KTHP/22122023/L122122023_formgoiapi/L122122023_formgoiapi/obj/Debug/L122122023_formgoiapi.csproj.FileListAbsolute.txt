@@ -1,0 +1,10 @@
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\bin\Debug\L122122023_formgoiapi.exe.config
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\bin\Debug\L122122023_formgoiapi.exe
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\bin\Debug\L122122023_formgoiapi.pdb
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.csproj.AssemblyReference.cache
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.Form1.resources
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.Properties.Resources.resources
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.csproj.GenerateResource.cache
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.csproj.CoreCompileInputs.cache
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.exe
+E:\TICHHOP_HAUI\kttx2\KTHP\L122122023_formgoiapi\L122122023_formgoiapi\obj\Debug\L122122023_formgoiapi.pdb
